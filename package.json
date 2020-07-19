@@ -1,0 +1,30 @@
+{
+  "name": "chessing",
+  "version": "1.0.0",
+  "description": "chessing (AI, engine, visual & analytics)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaharo/ChessAttempts.git"
+  },
+  "keywords": [
+    "chessing",
+    "AI",
+    "chess",
+    "engine",
+    "chess",
+    "board"
+  ],
+  "author": "Kaharo, based on other repos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kaharo/ChessAttempts/issues"
+  },
+  "homepage": "https://github.com/Kaharo/ChessAttempts#readme",
+  "dependencies": {
+    "gentelella": "^1.4.0"
+  }
+}
